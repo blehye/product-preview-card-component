@@ -101,3 +101,9 @@ button img {
 button div {
   color: var(--white);
   font-family: "Montserrat", sans-serif;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: var(--very-dark-cyan);
+}
